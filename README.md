@@ -1,5 +1,10 @@
 # -Healthcare-Hospital-Performance-Analytics-Power-BI-Dashboard
 
+![Uploading medical-banner-with-doctor-patient.jpg…]()
+
+
+
+
 Hospitals and healthcare providers face challenges in monitoring financial health, patient trends, and doctor efficiency. Key issues include:
 
 High operational costs and unoptimized revenue streams.
