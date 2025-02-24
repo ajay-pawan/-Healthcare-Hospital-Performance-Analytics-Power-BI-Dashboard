@@ -2,9 +2,6 @@
 
 ![medical-banner-with-doctor-patient](https://github.com/user-attachments/assets/be26a215-b749-484c-aa2f-a3a8a143d4f2)
 
-
-
-
 Hospitals and healthcare providers face challenges in monitoring financial health, patient trends, and doctor efficiency. Key issues include:
 
 High operational costs and unoptimized revenue streams.
