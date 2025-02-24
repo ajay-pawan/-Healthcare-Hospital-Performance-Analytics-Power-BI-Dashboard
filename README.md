@@ -19,6 +19,7 @@ The objective of this project is to leverage Power BI to analyze hospital perfor
 The dataset used in this project consists of approximately **100,000+ records**, covering multiple aspects of **hospital performance** across financial, patient, and provider data. The data spans over **two years**, providing historical trends and enabling in-depth analysis.  
 
 **Tools Used**
+---
 
 Power BI – Interactive dashboard creation & data visualization
 
@@ -31,6 +32,7 @@ Power BI – Interactive dashboard creation & data visualization
  Power Query – Data transformation and integration
 
   ### **Dashboard Design** 
+  ---
 
   ![Marketing Agency (1)](https://github.com/user-attachments/assets/a87f8966-2030-4454-b335-d44a36e2e4d9)
 
@@ -41,6 +43,7 @@ Power BI – Interactive dashboard creation & data visualization
   
 
  ### **Key Insights from the Healthcare & Hospital Performance Analysis**  
+ ---
 
 #### **1. Financial Analysis Insights:**  
 - Identified **top revenue-generating departments** and procedures, helping optimize resource allocation.  
@@ -58,9 +61,10 @@ Power BI – Interactive dashboard creation & data visualization
 - Compared **emergency visits vs. scheduled appointments**, helping hospitals manage emergency room capacity. 
 - Evaluated **patient satisfaction** linked to provider interactions, improving healthcare service quality.  
 
----
+
 
 ### **Dashboard Highlights**  
+---
 
 #### **1. Financial Analysis Dashboard**  
 ✅ Revenue breakdown by department, procedure, and department  type  
