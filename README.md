@@ -21,9 +21,13 @@ The dataset used in this project consists of approximately **100,000+ records**,
 **Tools Used**
 
 Power BI – Interactive dashboard creation & data visualization
+
  SQL – Data extraction, transformation, and cleaning
+ 
  Excel – Data preprocessing and initial validation
+ 
  DAX (Data Analysis Expressions) – Custom calculations for KPIs
+ 
  Power Query – Data transformation and integration
 
  ### **Key Insights from the Healthcare & Hospital Performance Analysis**  
