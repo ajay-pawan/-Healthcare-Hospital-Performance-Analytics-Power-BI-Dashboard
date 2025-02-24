@@ -1,6 +1,6 @@
 # -Healthcare-Hospital-Performance-Analytics-Power-BI-Dashboard
 
-![Uploading medical-banner-with-doctor-patient.jpg…]()
+![medical-banner-with-doctor-patient](https://github.com/user-attachments/assets/be26a215-b749-484c-aa2f-a3a8a143d4f2)
 
 
 
