@@ -30,13 +30,23 @@ Power BI – Interactive dashboard creation & data visualization
  
  Power Query – Data transformation and integration
 
+  ### **Dashboard Design** 
+
+  ![Marketing Agency (1)](https://github.com/user-attachments/assets/a87f8966-2030-4454-b335-d44a36e2e4d9)
+
+
+  
+
+   [Compelete Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiOWYwYzY1NGMtMzBlZS00NjI5LTg0NDgtMzE0ZjRjODc5NjI0IiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9)
+  
+
  ### **Key Insights from the Healthcare & Hospital Performance Analysis**  
 
 #### **1. Financial Analysis Insights:**  
 - Identified **top revenue-generating departments** and procedures, helping optimize resource allocation.  
 - Highlighted **cost inefficiencies** in specific treatments, reducing unnecessary expenses.  
 - Tracked **monthly revenue trends**, aiding in revenue forecasting and financial planning.  
-- Analyzed **profit margins across different services**, ensuring sustainable operations.  
+- Analyzed **seasonal revenue margins**, ensuring sustainable operations.  
 
 #### **2. Trend Analysis Insights:**  
 - Observed **seasonal trends** in patient admissions, enabling better staffing and resource planning.  
@@ -44,7 +54,7 @@ Power BI – Interactive dashboard creation & data visualization
 - Tracked **length of stay (LOS) trends** to optimize bed availability and reduce patient turnaround time.  
 
 #### **3. Provider/Doctor Performance Insights:**  
-- Identified **top-performing doctors** based on patient volume, satisfaction scores, and treatment outcomes.  
+- Identified **Performance trends** based on patient volume, satisfaction scores, and treatment outcomes.  
 - Compared **emergency visits vs. scheduled appointments**, helping hospitals manage emergency room capacity. 
 - Evaluated **patient satisfaction** linked to provider interactions, improving healthcare service quality.  
 
